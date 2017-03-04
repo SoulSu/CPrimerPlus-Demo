@@ -5,7 +5,7 @@
 int main()
 {
 
-    char *str1 = "main";
+    const char *str1 = "main";
 
     char *streq = str1;
 
